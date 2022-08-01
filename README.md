@@ -1,7 +1,7 @@
 <h1 align="center">Olá, tudo bem?👋, eu sou a Nathalia!</h1>
 <h3 align="center">Apaixonada por inovação e tecnologia no mundo digital. Entusiasta da ciência e análise de dados.</h3>
 
-- 🔭 Atualmente, estou trabalhando com [Análise e Visualização de Dados com Python](https://github.com/nathaliafontanari/ciencia-de-dados-projetos)
+- 🔭 Atualmente, estou trabalhando com [Análise e Visualização de Dados com Python](https://github.com/nathaliafontanari/projetos-ciencia-de-dados)
 
 - 🌱 Estou aprendendo **Python, Machine Learning e SQL**
 
